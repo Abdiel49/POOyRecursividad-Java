@@ -1,2 +1,5 @@
-*.class
+practica/*.class
+practica/*.ctxt
+examen/*.class
+examen/*.ctxt
 *.ctxt

@@ -26,5 +26,6 @@ public class PersonaPendeja extends Persona {
     this.IQ -= 2.5;
   }
 
+  
 
 }
